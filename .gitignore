@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Multimedia files (User recordings)
+*.wav
+*.mp3
+*.mp4
+
+# macOS system files
+.DS_Store
+
+# API Keys and Secrets (Crucial for Gemini/ElevenLabs)
+.env
