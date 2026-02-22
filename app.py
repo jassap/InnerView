@@ -20,7 +20,7 @@ if "current_question" not in st.session_state:
 
 # 2. Sidebar with Reset Button
 with st.sidebar:
-    st.title("🛡️ Pulse-Check")
+    st.title("⚙️ Options")
     role = st.selectbox("Interviewing for:", ["Data Scientist", "Software Engineer", "Computer Scientist"])
     
     st.divider()
