@@ -1,5 +1,3 @@
-Here is a comprehensive README for the **InnerView AI** application, structured for a professional GitHub repository.
-
 # InnerView AI: Pulse-Check Interview Coach
 
 InnerView AI is an intelligent mock interview platform designed to help candidates master the **STAR method** (Situation, Task, Action, Result) while improving their non-verbal communication. Built for the HackHERS 2026 hackathon, the application uses real-time computer vision to track eye contact and Generative AI to provide personalized behavioral feedback.
