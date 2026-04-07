@@ -43,7 +43,6 @@ source .venv/bin/activate
 
 ```
 
-
 3. **Install Dependencies**:
 ```bash
 pip install streamlit google-genai elevenlabs opencv-contrib-python sounddevice scipy python-dotenv

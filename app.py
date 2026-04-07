@@ -7,7 +7,8 @@ import os
 # 1. Custom Page Layout
 st.set_page_config(page_title="InnerView AI", layout="wide", page_icon="🧠")
 
-# --- INITIALIZATION (Fixes the AttributeError) ---
+# --- INITIALIZATION ---
+#(Fixes the AttributeError)
 # Ensure these variables exist the moment the app loads
 if "app_state" not in st.session_state:
     st.session_state.app_state = "idle"
